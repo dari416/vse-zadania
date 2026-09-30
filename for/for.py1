@@ -1,0 +1,4 @@
+K = int(input("Введите число"))
+N = int(input("Ввeдите число"))
+for i in range(N):
+    print(K)
